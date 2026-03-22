@@ -11,7 +11,7 @@
 // S21_INF
 // S21_NAN
 
-int abs(int x);                             //вычисляет абсолютное значение целого числа
+int s21_abs(int x);                               //вычисляет абсолютное значение целого числа
 //long double acos(double x);                 //вычисляет арккосинус
 //long double asin(double x);                 //вычисляет арксинус
 //long double atan(double x);                 //вычисляет арктангенс
